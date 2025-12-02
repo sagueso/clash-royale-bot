@@ -1,0 +1,31 @@
+# Clash Royale RL Bot - Requirements
+
+# Core RL and ML
+gymnasium>=0.29.0
+stable-baselines3[extra]>=2.0.0
+torch>=2.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Screen Capture and Control
+mss>=9.0.0
+pyautogui>=0.9.54
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Object Detection
+roboflow>=1.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: Better progress bars
+tqdm>=4.65.0
+
+# Optional: Plotting and visualization
+matplotlib>=3.7.0
+tensorboard>=2.13.0

@@ -1,0 +1,12 @@
+# Test images
+/images/
+
+# Deck images
+/ref_images/deck/
+
+# Logs
+/logs/
+tensorboard/
+
+# Model
+/models

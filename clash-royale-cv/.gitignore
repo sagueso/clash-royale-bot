@@ -1,0 +1,8 @@
+#Datasets
+/datasets/
+
+#Models
+models/
+*.pth
+*.pt
+*.onnx
